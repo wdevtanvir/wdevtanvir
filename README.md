@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGwRD_8ZWzhrg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731987641468?e=1737590400&v=beta&t=NAS-8254BIOuAFraWHUt9bS4lKAnDIwykEK6KVgK248">
-<h1 align="center">Hi 👋, I'm Tanvir Ahamed</h1>
+<h1 align="center">Tanvir Ahamed</h1>
 <h3 align="center">Passionate Web Developer | Clean Code | Web Solutions | Beautiful Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdevtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="wdevtanvir" /> </p>
